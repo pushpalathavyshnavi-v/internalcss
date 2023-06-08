@@ -1,6 +1,10 @@
+
+body{background-color:yellow }
  <style>
     p{border:6px solid green;
-      color:purple; }
+      color:purple; 
+      font:italic;
+     }
     div{
       background-color:pink;
        border: 4px solid black;
